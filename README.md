@@ -54,6 +54,9 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 *  **Arriscando a Matemática - POSTERES e APRESENTAÇÕES** - Cartazes de divulgação, regras e imagens da interface do Mega Senha.<br>
 *  **Cidade Dorme** - Matrizes com as chaves e personagens.<br>
 *  **Conceitos Matemáticos 2** - Lista dos conceitos presentes no Mega Senha (pequenas alterações foram realizadas na transferência para o código).<br>
+*  **IPA - DECODIFICANDO MATRIZES** - Código do Cidade Dorme Criptografado.<br>
+*  **Impostor - EM** - Lista dos conceitos presentes no Impostor para Ensino Médio.<br>
+*  **Impostor EF** - Lista dos conceitos presentes no Impostor para Ensino Fundamental.<br>
 
 ## Cidade Dorme Criptografado
 Para descobrir qual personagem serão na atividade, os jogadores devem descriptografar a matriz sorteada com o auxíio do código fornecido.
@@ -87,7 +90,7 @@ O mestre do jogo deve informar se alguém morreu (se sim, essa pessoa é elimina
 <br>
 
 ## Mega Senha
-![3dfaab53-1a61-4afc-a3d3-573c720dc6e6](https://github.com/user-attachments/assets/6ff7565e-6a72-4598-a5cf-e01e721df4f0)
+![42e691e7-b134-40f9-b2fc-d454e4a0f88c](https://github.com/user-attachments/assets/dad859d8-b30b-40a7-a489-587ec27dadb6)
 
 ### Regras
 Na tela, aparecerá um conceito matemático e uma dica sobre ele caso haja dúvidas. <br>
