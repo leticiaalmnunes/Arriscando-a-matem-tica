@@ -107,7 +107,7 @@ Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chav
 <br><br>
 **IZIDÓRIO, José:** Código do Mega Senha
 <br><br>
-**LELIS, Maria:** Auxílio na estilização do Mega Senha
+**LELIS, Maria:** Auxílio na estilização das interfaces dos códigos
 <br><br>
 **NUNES, Letícia:** Documentação
 <br><br>
