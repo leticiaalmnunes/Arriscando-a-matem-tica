@@ -45,11 +45,17 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 <br>
 
 ## Arquivos
-quais arquivos estão presentes (ANEXAR ARQUIVOS DAS MATRIZES e dos conceitos)
-<br>
+**Nome do arquivo** - Conteúdo. <br>
+*  **Cidade Dorme** - Matrizes com as chaves e personagens.<br>
+*  **Conceitos** - Lista dos conceitos presentes no Mega Senha (pequenas alterações foram realizadas na transferência para o código).<br>
+*  **Material Impresso** - Cartazes de divulgação e regras.<br>
+*  **Proposta IPA** - Documento com as descrições das atividades que seriam realizadas no stand "Arriscando a Matemática".<br>
 
 ## Cidade Dorme Criptografado
-Explicar as matrizes etc
+Para descobrir qual personagem serão na atividade, os jogadores devem descriptografar a matriz sorteada com o auxíio do código fornecido.
+
+Foram geradas matrizes **M** 2X2 com algumas letras do personagem (*Exemplo: PESS = Pessoa*), em seguida cada letra foi "convertida" para seu respectivo número (A-Z, 0-26) e depois foram multiplicadas por uma matriz **C**(chave) também 2x2. Os jogadores recebem a matriz MC que resulta desse produto. Para conseguir descobrir a matriz original, precisam utilizar o código para multiplicar esta pela inversa da chave.
+
 ### Regras
 Os jogadores só podem falar quando autorizados. <br>
 Se o detetive descobrir quem é o assassino, pode decidir se vai contar ou não para os demais participantes.
