@@ -110,9 +110,11 @@ Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chav
   - Jupyter Notebook
   - VSCode
 * Bibliotecas
-  - Pygame
-  - Time
-  - Random
+  - pygame
+  - time
+  - random
+  - numpy
+  - tckit
 <br>
 
 ## Contribuições para o GitHub
