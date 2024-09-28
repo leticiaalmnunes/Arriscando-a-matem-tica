@@ -20,8 +20,12 @@
 * Maria Clara Macêdo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Yasmin Barbosa Shimizu, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
+<br>
+
 ## Descrição do Projeto
 texto
+
+<br>
 
 ### Objetivo principal
 texto
@@ -31,24 +35,39 @@ texto
 * [Descrição do Projeto](#descrição-do-projeto)
   - [Objetivo Principal](#objetivo-principal)
 * [Índice](#índice)
-* [Demonstração da Aplicação](#demonstração-da-aplicação)
-  - [Cidade Dorme](#cidade-dorme)
-  - [Mega Senha](#mega-senha)
+* [Cidade Dorme](#cidade-dorme)
+  - [Regras](#regras)
+  - [Código](#código)
+* [Mega Senha](#mega-senha)
+  - [Regras](#regras)
+  - [Código](#código)
 * [Informações técnicas](#informações-técnicas)
 * [Contribuições](#contribuições)
 * [Conclusão](#conclusão)
 * [Agradecimentos](#agradecimentos)
 * [Referências](#referências)
 
-## Demonstração da Aplicação
-% mudar o título dessa seção
-### Cidade Dorme
-* Regras
-* Código
-  
-### Mega Senha
-* Regras
-* Código
+<br>
+
+## Cidade Dorme
+imagem
+### Regras
+texto
+### Código
+resumo de como foi feito
+link
+
+<br>
+
+## Mega Senha
+imagem
+### Regras
+texto
+### Código
+resumo de como foi feito
+link
+
+<br>
 
 ## Informações técnicas
 * Linguagem de programação
@@ -59,6 +78,8 @@ texto
 * Bibliotecas
   - descrição
 
+<br>
+
 ## Contribuições
 LELIS, Maria:descrição
 <br><br>
@@ -68,8 +89,12 @@ NUNES, Letícia: descrição
 ## Conclusão
 texto
 
+<br>
+
 ## Agradecimentos
 texto
+
+<br>
 
 ## Referências
 texto
