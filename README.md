@@ -8,14 +8,18 @@
 </p>
 
 ## Colaboradores
+[<img src="https://avatars.githubusercontent.com/u/172424835?v=4" width=115>](https://github.com/adrian24009)
 [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width=115>](https://github.com/GabrielMartinsSousa)
+[<img src="https://avatars.githubusercontent.com/u/172425731?v=4" width=115>](https://github.com/IzabelCarvalho)
 [<img src="https://avatars.githubusercontent.com/u/97992533?v=4" width=115>](https://github.com/JVictor1604)
 [<img src="https://avatars.githubusercontent.com/u/172425156?v=4" width=115>](https://github.com/leticiaalmnunes)
+[<img src="https://avatars.githubusercontent.com/u/172425487?v=4" width=115>](https://github.com/lucasnsilva7)
 [<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>](https://github.com/ClaraLelis)
 [<img src="https://avatars.githubusercontent.com/u/171518829?v=4" width=115>](https://github.com/yasminbshimizu)
 
 * Adrian Lincoln Paz Silva, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Gabriel Martins Sousa, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+* Izabel de Melo Carvalho, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * José Victor da Silva Izidório, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Letícia Almeida Nunes, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Lucas Nascimendo da Silva, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
@@ -41,20 +45,20 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 * [Mega Senha](#mega-senha)
   - [Regras](#regras)
 * [Informações técnicas](#informações-técnicas)
-* [Contribuições](#contribuições)
+* [Contribuições para o GitHub](#contribuições-para-o-github)
 <br>
 
 ## Arquivos
 **Nome do arquivo** - Conteúdo. <br>
+*  **Arriscando a Matemática - IPA 2024 1** - Documento com as descrições das atividades que seriam realizadas no stand "Arriscando a Matemática".<br>
+*  **Arriscando a Matemática - POSTERES e APRESENTAÇÕES** - Cartazes de divulgação, regras e imagens da interface do Mega Senha.<br>
 *  **Cidade Dorme** - Matrizes com as chaves e personagens.<br>
-*  **Conceitos** - Lista dos conceitos presentes no Mega Senha (pequenas alterações foram realizadas na transferência para o código).<br>
-*  **Material Impresso** - Cartazes de divulgação e regras.<br>
-*  **Proposta IPA** - Documento com as descrições das atividades que seriam realizadas no stand "Arriscando a Matemática".<br>
+*  **Conceitos Matemáticos 2** - Lista dos conceitos presentes no Mega Senha (pequenas alterações foram realizadas na transferência para o código).<br>
 
 ## Cidade Dorme Criptografado
 Para descobrir qual personagem serão na atividade, os jogadores devem descriptografar a matriz sorteada com o auxíio do código fornecido.
 
-Foram geradas matrizes **M** 2X2 com algumas letras do personagem (*Exemplo: PESS = Pessoa*), em seguida cada letra foi "convertida" para seu respectivo número (A-Z, 0-26) e depois foram multiplicadas por uma matriz **C**(chave) também 2x2. Os jogadores recebem a matriz MC que resulta desse produto. Para conseguir descobrir a matriz original, precisam utilizar o código para multiplicar esta pela inversa da chave.
+Foram geradas matrizes **$M_{2X2}$** com algumas letras do personagem (*Exemplo: PESS = Pessoa*), em seguida cada letra foi "convertida" para seu respectivo número (A-Z, 0-26) e depois foram multiplicadas por uma matriz **$C_{2X2}$**(chave). Os jogadores recebem a matriz **$MC_{2X2}$** que resulta desse produto. Para conseguir descobrir a matriz original, precisam utilizar o código para multiplicar esta pela inversa da chave.
 
 ### Regras
 Os jogadores só podem falar quando autorizados. <br>
@@ -83,13 +87,13 @@ O mestre do jogo deve informar se alguém morreu (se sim, essa pessoa é elimina
 <br>
 
 ## Mega Senha
-IMAGEM
+![3dfaab53-1a61-4afc-a3d3-573c720dc6e6](https://github.com/user-attachments/assets/6ff7565e-6a72-4598-a5cf-e01e721df4f0)
 
 ### Regras
 Na tela, aparecerá um conceito matemático e uma dica sobre ele caso haja dúvidas. <br>
 Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chave relacionadas ao tema!
 
-* Só se pode dizer uma palavra por vez.
+* Só se pode dizer UMA palavra por vez.
 * A cada palavra dita, deve haver um chute.
 * Você pode pular 2 conceitos.
 * É proibido reproduzir o conceito ou a frase da dica!
@@ -108,7 +112,9 @@ Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chav
   - Random
 <br>
 
-## Contribuições
+## Contribuições para o GitHub
+**CARVALHO, Izabel:** Arquivos
+<br><br>
 **DA SILVA, Lucas:** Código do Cidade Dorme
 <br><br>
 **IZIDÓRIO, José:** Código do Mega Senha
@@ -121,5 +127,5 @@ Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chav
 <br><br>
 **SILVA, Adrian:** Código do Cidade Dorme
 <br><br>
-**SOUSA, Gabriel:** Documentação e seleção áudios do Mega Senha
+**SOUSA, Gabriel:** Seleção de áudios do Mega Senha e auxílio na descrição da atividade.
 <br><br>
