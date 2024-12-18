@@ -45,6 +45,7 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 * [Mega Senha](#mega-senha)
   - [Regras](#regras)
 * [Impostor](#impostor)
+  - [Regras](#regras)
 * [Informações técnicas](#informações-técnicas)
 * [Contribuições para o GitHub](#contribuições-para-o-github)
 <br>
@@ -58,7 +59,7 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 *  **IPA - DECODIFICANDO MATRIZES** - Código do Cidade Dorme Criptografado.<br>
 * **Impostor - Arriscando a Matemática** - Código do Impostor para o responsável da atividade.
 *  **Impostor - EM** - Lista dos conceitos para impressão presentes no Impostor para Ensino Médio.<br>
-*  **Impostor EF** - Lista dos conceitos presentes para impressão no Impostor para Ensino Fundamental.<br>
+*  **Impostor EF** - Lista dos conceitos para impressão presentes no Impostor para Ensino Fundamental.<br>
 
 ## Cidade Dorme Criptografado
 Para descobrir qual personagem serão na atividade, os jogadores devem descriptografar a matriz sorteada com o auxíio do código fornecido.
@@ -109,17 +110,19 @@ Sua missão é fazer o outro jogador acertar o conceito apenas com palavras-chav
 
 A **dinâmica do Impostor** trata-se uma atividade didática que visa trabalhar conceitos matemáticos de ensino fundamental e médio, e também o trabalho em equipe - podendo ser adaptada para o ensino superior utilizando conceitos mais complexos. Aqui, trouxemos duas abordagens para a dinâmica: uma manual, e outra com parte computacional.
 
-## Regras
+### Regras
 
-A dinâmica consiste em um grupo de estudantes que receberão conceitos matemáticos - sorteados com fichas em papel (disponível para impressão nos pdfs **Impostor - EF** ou **Impostor - EM**, de acordo com o nível dos jogadores); ou de maneira computacional pelo responsável da atividade, que deverá informar individualmente o conceito sorteado para cada jogador (disponível no caderno de código **Impostor - Arriscando a Matemática** ). Um dos participantes receberá um conceito dos demais - este é o Impostor -, entretanto, este participante não saberá disso! Trabalhando em conjunto, os jogadores deverão fazer um desenho que represente o conceito recebido, tentando descobrir qual deles é o Impostor.
+A dinâmica consiste em um grupo de estudantes que receberão conceitos matemáticos - sorteados com fichas em papel (disponível para impressão nos pdfs **Impostor - EF** ou **Impostor - EM**, de acordo com o nível dos jogadores); ou de maneira computacional pelo responsável da atividade, que deverá informar individualmente o conceito sorteado para cada jogador (disponível no caderno de código **Impostor - Arriscando a Matemática** ). Um dos participantes receberá um conceito dos demais - este é o Impostor -, entretanto, este participante não saberá disso! Trabalhando em conjunto, os jogadores deverão fazer um desenho que represente o conceito recebido, tentando descobrir qual deles é o Impostor. <br>
 
 * É necessário pelo menos 3 jogadores (recomendamos entre 4 e 8 jogadores).
 * Cada participante recebe um conceito matemático, sendo um deles diferente dos demais - o Impostor!
 * Cada jogador, na sua vez, deve desenhar um pequeno traço visando representar o conceito recebido.
 * Ao final de 3 rodadas (ou quantas forem necessárias), um desenho será formado em conjunto - porém, o Impostor, com seu conceito diferente, acabará atrapalhando tal tarefa.
 * O objetivo do grupo é descobrir qual dos jogadores era o Impostor e recebeu um conceito diferente.
+<br>
     
 O divertido em tal dinâmica é que, como o impostor também recebe um conceito, nem mesmo ele sabe se cumpre tal papel, havendo uma grande tensão entre os jogadores para descobrir se são, si próprios, o Impostor. Devido a isso, o conceito do Impostor pode, por exemplo, se sobressair entre os demais, gerando um resultado inesperado ao final da partida.
+<br>
 
 ## Informações técnicas
 * Linguagem de programação
