@@ -54,7 +54,7 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 **Nome do arquivo** - Conteúdo. <br>
 *  **Arriscando a Matemática - IPA 2024 1** - Documento com as descrições das atividades que seriam realizadas no stand "Arriscando a Matemática".<br>
 *  **Arriscando a Matemática - POSTERES e APRESENTAÇÕES** - Cartazes de divulgação, regras e imagens da interface do Mega Senha.<br>
-*  **Cidade Dorme** - Matrizes com as chaves e personagens.<br>
+*  **Cidade Dorme - Matrizes Criptografadas** - Matrizes com as personagens criptografadas e chave.<br>
 *  **Conceitos Matemáticos 2** - Lista dos conceitos presentes no Mega Senha (pequenas alterações foram realizadas na transferência para o código).<br>
 *  **IPA - DECODIFICANDO MATRIZES** - Código do Cidade Dorme Criptografado.<br>
 * **Impostor - Arriscando a Matemática** - Código do Impostor para o responsável da atividade.
@@ -64,7 +64,7 @@ Objetivando mostrar a interdisciplinaridade aplicada na Ilum, os alunos engajado
 ## Cidade Dorme Criptografado
 Para descobrir qual personagem serão na atividade, os jogadores devem descriptografar a matriz sorteada com o auxíio do código fornecido.
 
-Foram geradas matrizes **$M_{2X2}$** com algumas letras do personagem (*Exemplo: PESS = Pessoa*), em seguida cada letra foi "convertida" para seu respectivo número (A-Z, 0-26) e depois foram multiplicadas por uma matriz **$C_{2X2}$**(chave). Os jogadores recebem a matriz **$MC_{2X2}$** que resulta desse produto. Para conseguir descobrir a matriz original, precisam utilizar o código para multiplicar esta pela inversa da chave.
+Foram geradas matrizes **$M_{2X2}$** com algumas letras do personagem (*Exemplo: PESS = Pessoa*), em seguida cada letra foi "convertida" para seu respectivo número (A1Z26) e depois foram multiplicadas por uma matriz **$C_{2X2}$**(chave). Os jogadores recebem a matriz **$MC_{2X2}$** que resulta desse produto. Para conseguir descobrir a matriz original, precisam utilizar o código para multiplicar esta pela inversa da chave.
 
 ### Regras
 Os jogadores só podem falar quando autorizados. <br>
